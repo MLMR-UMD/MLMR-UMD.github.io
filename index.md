@@ -1,3 +1,10 @@
+# <p align="center"> Testing Title </p>
+
+### <p align="center"> Testing Subtitle </p>
+
+<img src="https://github.com/MLMR-UMD/MLMR-UMD.github.io/images/mlmr_ringb.png" align="left" height="200" /> </a>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MLMR-UMD/MLMR-UMD.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
