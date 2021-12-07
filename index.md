@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MLMR-UMD/MLMR-UMD.github.io/main/images/mlmr_ringb.png" align="left" height="200" />
 
-# <p align="center"> Machine Learning for Materials Research: Bootcamp and Workshop </p> 
+# Machine Learning for Materials Research: Bootcamp and Workshop
 
 <br>
 <br>
