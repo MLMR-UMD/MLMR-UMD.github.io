@@ -16,7 +16,7 @@ The 2022 MLMR Bootcamp and Workshop will be **Virtual**. The dates are still bei
 ### Bootcamp (Days 1-4)
 
 Four days of lectures and hands-on exercises covering a range of data analysis topics from introduction to python and data pre-processing to advanced machine learning analysis techniques. Example topics include:
-
+<img src="https://raw.githubusercontent.com/MLMR-UMD/MLMR-UMD.github.io/main/images/bootcamp_world_map_w_text.png" align="right" height="200" />
 * Identifying important features in complex/high dimensional data
 * Visualizing high dimensional data to facilitate user analysis.
 * Identifying the 'descriptors' that best predict variance in functional properties.
