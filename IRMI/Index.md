@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MLMR-UMD/MLMR-UMD.github.io/main/images/mlmr_ringb.png" align="left" height="200" />
 
 # The International IRMI Competition
-###  &nbsp; &nbsp; &nbsp; IRMI: Industry-Relevant Materials Informatics
+###  &nbsp; &nbsp; &nbsp; &nbsp; IRMI: Industry-Relevant Materials Informatics
 
 <br>
 <br>
